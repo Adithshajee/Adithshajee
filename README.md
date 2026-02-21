@@ -1,56 +1,77 @@
 <div align="center">
   <h1>Hi, I'm Adith Shajee 👋</h1>
-  <p><strong>7th Sem AI & Machine Learning Student | Aspiring ML Engineer</strong></p>
+  <p><strong>Final Year AI & Machine Learning Student | Aspiring ML Engineer</strong></p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/adith-shajee006" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:adideva12345@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/__a_d_z_x__" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 💫 About Me
-- 🔭 **Working on:** Final year projects focused on AI & Machine Learning.
-- 👯 **Collaborating on:** Python, Machine Learning, and Open Source.
-- 🤝 **Seeking help with:** Advanced Deep Learning & MLOps scaling.
-- 🌱 **Learning:** Big Data Analytics and Data Security.
-- 💬 **Ask me about:** ML, Computer Vision (YOLO), and Python.
-- ⚡ **Fun fact:** Die-hard **RCB fan**—I’ve mastered the art of patience! 🏏
+### 🚀 Overview
+- 🎓 **Education:** 8th Semester, B.E. in Artificial Intelligence & Machine Learning.
+- 🔭 **Focus:** Completing my Final Year Capstone project involving Deep Learning.
+- 👯 **Collaboration:** Open to contributing to Computer Vision and MLOps projects.
+- 💬 **Ask me about:** Python, YOLOv8, and building scalable ML models.
+- ⚡ **Fun Fact:** Die-hard **RCB fan**—I treat debugging code with the same loyalty and patience! 🏏
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Technical Expertise
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **Cloud & Tools** | ![GCP](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages & Databases</h4>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI & Machine Learning</h4>
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Data Science & Frameworks</h4>
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Tools & Cloud</h4>
+      <img src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Analysis
+### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithshajee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithshajee&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adithshajee&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithshajee&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithshajee&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithshajee&theme=chartreuse-dark&hide_border=true" width="100%" />
 </p>
 
-### 🏆 Trophies
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adithshajee&theme=tokyonight&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adithshajee&theme=darkhub&no-frame=true&column=4" />
 </p>
 
 ---
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/adith-shajee006" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/__a_d_z_x__" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:adideva12345@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://discord.gg/adithshajee1455" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Adithshajee&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=Adithshajee&icon=5&color=12" />
 </div>
