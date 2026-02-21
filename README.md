@@ -65,13 +65,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithshajee&theme=chartreuse-dark&hide_border=true" width="100%" />
 </p>
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adithshajee&theme=darkhub&no-frame=true&column=4" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Adithshajee&icon=5&color=12" />
 </div>
