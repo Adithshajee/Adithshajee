@@ -63,36 +63,11 @@
 
 ## 📊 GitHub Analytics Dashboard
 
-<table border="0" width="100%">
-  <tr>
-    <!-- Left Column: Stats & Contribution Graph -->
-    <td width="50%" valign="top">
-      <h3>📈 Adith's GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adithshajee&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=8B949E" width="100%" alt="Adith's GitHub Stats" />
-      <br><br>
-      <h3>📅 Contribution Graph</h3>
-      <img src="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph" />
-    </td>
-    <!-- Right Column: Top Languages, Streak, and Snake Game -->
-    <td width="50%" valign="top">
-      <h3>📊 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithshajee&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=8B949E" width="100%" alt="Top Languages" />
-      <br><br>
-      <table border="0" width="100%">
-        <tr>
-          <td width="50%" valign="top">
-            <h3>🔥 Streak Stats</h3>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithshajee&theme=transparent&hide_border=true&fire=2563EB&ring=2563EB" width="100%" alt="Streak Stats" />
-          </td>
-          <td width="50%" valign="top">
-            <h3>🐍 Snake Game</h3>
-            <img src="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ---
 
@@ -110,7 +85,6 @@
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
-      <p>⭐ 42 &nbsp;&nbsp; 🍴 9</p>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/tool-tracking-preview.png" width="100%" style="border-radius: 8px; border: 1px solid #1E293B;" alt="tool-tracking-system preview" />
@@ -130,7 +104,6 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/MLOps-8B5CF6?style=flat-square" />
       </p>
-      <p>⭐ 37 &nbsp;&nbsp; 🍴 6</p>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/housing-prediction-preview.png" width="100%" style="border-radius: 8px; border: 1px solid #1E293B;" alt="california-housing-production preview" />
@@ -150,7 +123,6 @@
         <img src="https://img.shields.io/badge/FinBERT-1E293B?style=flat-square" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
-      <p>⭐ 31 &nbsp;&nbsp; 🍴 5</p>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/Adithshajee/github-portfolio-system/main/assets/bse-analyzer-preview.png" width="100%" style="border-radius: 8px; border: 1px solid #1E293B;" alt="bse-macro-sector-analyzer preview" />
@@ -161,6 +133,21 @@
 ---
 
 <!-- REPOS_START -->
+
+### 📂 Active Projects & Repositories
+
+- **[github-portfolio-system](https://github.com/Adithshajee/github-portfolio-system)** - *Updated 2026-07-11*
+  > No description provided.
+  > 🌟 `0` | 🍴 `0`
+
+- **[quantmacro-india](https://github.com/Adithshajee/quantmacro-india)** - *Updated 2026-07-11*
+  > No description provided.
+  > 🌟 `0` | 🍴 `0`
+
+- **[AI-Driven-Tool-Tracking](https://github.com/Adithshajee/AI-Driven-Tool-Tracking)** - *Updated 2025-12-10*
+  > AI-Driven Predictive Maintenance and Vision-Based Tool Tracking System for Industrial Applications
+  > 🌟 `0` | 🍴 `0`
+
 <!-- REPOS_END -->
 
 ---
